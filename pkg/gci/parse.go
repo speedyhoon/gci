@@ -3,8 +3,8 @@ package gci
 import (
 	"strings"
 
-	"github.com/daixiang0/gci/pkg/constants"
-	importPkg "github.com/daixiang0/gci/pkg/gci/imports"
+	"github.com/speedyhoon/gci/pkg/constants"
+	importPkg "github.com/speedyhoon/gci/pkg/gci/imports"
 )
 
 // Recursively parses import lines into a list of ImportDefs

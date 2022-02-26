@@ -3,5 +3,5 @@ import (
   "fmt"
   // golang
   _ "github.com/golang"
-  "github.com/daixiang0/gci"
+  "github.com/speedyhoon/gci"
 )

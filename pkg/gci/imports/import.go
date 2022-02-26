@@ -5,8 +5,8 @@ import (
 	"strings"
 	"unicode"
 
-	"github.com/daixiang0/gci/pkg/configuration"
-	"github.com/daixiang0/gci/pkg/constants"
+	"github.com/speedyhoon/gci/pkg/configuration"
+	"github.com/speedyhoon/gci/pkg/constants"
 )
 
 type ImportDef struct {

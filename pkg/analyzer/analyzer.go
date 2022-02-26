@@ -6,9 +6,9 @@ import (
 	"go/token"
 	"strings"
 
-	"github.com/daixiang0/gci/pkg/configuration"
-	"github.com/daixiang0/gci/pkg/gci"
-	"github.com/daixiang0/gci/pkg/io"
+	"github.com/speedyhoon/gci/pkg/configuration"
+	"github.com/speedyhoon/gci/pkg/gci"
+	"github.com/speedyhoon/gci/pkg/io"
 
 	"golang.org/x/tools/go/analysis"
 	"golang.org/x/tools/go/analysis/passes/inspect"

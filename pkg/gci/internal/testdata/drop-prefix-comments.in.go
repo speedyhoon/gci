@@ -11,6 +11,6 @@ import (
 
 	// Github
 	"github.com/local/dlib/dexec"
-	"github.com/daixiang0/gci"
+	"github.com/speedyhoon/gci"
 	// Github
 )

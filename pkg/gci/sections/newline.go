@@ -1,10 +1,10 @@
 package sections
 
 import (
-	"github.com/daixiang0/gci/pkg/configuration"
-	"github.com/daixiang0/gci/pkg/constants"
-	importPkg "github.com/daixiang0/gci/pkg/gci/imports"
-	"github.com/daixiang0/gci/pkg/gci/specificity"
+	"github.com/speedyhoon/gci/pkg/configuration"
+	"github.com/speedyhoon/gci/pkg/constants"
+	importPkg "github.com/speedyhoon/gci/pkg/gci/imports"
+	"github.com/speedyhoon/gci/pkg/gci/specificity"
 )
 
 func init() {

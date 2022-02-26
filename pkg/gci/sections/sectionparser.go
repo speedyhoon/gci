@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/daixiang0/gci/pkg/constants"
+	"github.com/speedyhoon/gci/pkg/constants"
 )
 
 var SectionParserInst = SectionParser{}

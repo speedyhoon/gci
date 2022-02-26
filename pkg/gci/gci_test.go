@@ -7,8 +7,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/daixiang0/gci/pkg/gci/sections"
-	"github.com/daixiang0/gci/pkg/io"
+	"github.com/speedyhoon/gci/pkg/gci/sections"
+	"github.com/speedyhoon/gci/pkg/io"
 
 	"github.com/stretchr/testify/assert"
 )

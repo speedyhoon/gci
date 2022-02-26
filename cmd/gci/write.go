@@ -1,7 +1,7 @@
 package gci
 
 import (
-	"github.com/daixiang0/gci/pkg/gci"
+	"github.com/speedyhoon/gci/pkg/gci"
 )
 
 // writeCmd represents the write command

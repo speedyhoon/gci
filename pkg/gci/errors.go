@@ -4,8 +4,8 @@ import (
 	"errors"
 	"fmt"
 
-	importPkg "github.com/daixiang0/gci/pkg/gci/imports"
-	sectionsPkg "github.com/daixiang0/gci/pkg/gci/sections"
+	importPkg "github.com/speedyhoon/gci/pkg/gci/imports"
+	sectionsPkg "github.com/speedyhoon/gci/pkg/gci/sections"
 )
 
 type EqualSpecificityMatchError struct {

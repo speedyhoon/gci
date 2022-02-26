@@ -3,7 +3,7 @@ package main
 import (
 	"os"
 
-	"github.com/daixiang0/gci/cmd/gci"
+	"github.com/speedyhoon/gci/cmd/gci"
 )
 
 var (

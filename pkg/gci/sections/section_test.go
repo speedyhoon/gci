@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"testing"
 
-	importPkg "github.com/daixiang0/gci/pkg/gci/imports"
-	"github.com/daixiang0/gci/pkg/gci/specificity"
+	importPkg "github.com/speedyhoon/gci/pkg/gci/imports"
+	"github.com/speedyhoon/gci/pkg/gci/specificity"
 )
 
 type specificityTestData struct {

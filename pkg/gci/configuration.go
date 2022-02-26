@@ -3,8 +3,8 @@ package gci
 import (
 	"io/ioutil"
 
-	"github.com/daixiang0/gci/pkg/configuration"
-	sectionsPkg "github.com/daixiang0/gci/pkg/gci/sections"
+	"github.com/speedyhoon/gci/pkg/configuration"
+	sectionsPkg "github.com/speedyhoon/gci/pkg/gci/sections"
 
 	"gopkg.in/yaml.v3"
 )

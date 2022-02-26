@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/daixiang0/gci/pkg/configuration"
-	"github.com/daixiang0/gci/pkg/gci"
+	"github.com/speedyhoon/gci/pkg/configuration"
+	"github.com/speedyhoon/gci/pkg/gci"
 
 	"github.com/spf13/cobra"
 )

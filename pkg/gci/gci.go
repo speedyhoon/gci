@@ -7,8 +7,8 @@ import (
 	"log"
 	"os"
 
-	sectionsPkg "github.com/daixiang0/gci/pkg/gci/sections"
-	"github.com/daixiang0/gci/pkg/io"
+	sectionsPkg "github.com/speedyhoon/gci/pkg/gci/sections"
+	"github.com/speedyhoon/gci/pkg/io"
 
 	"github.com/hexops/gotextdiff"
 	"github.com/hexops/gotextdiff/myers"

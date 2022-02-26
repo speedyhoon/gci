@@ -6,10 +6,10 @@ import (
 	"log"
 	"strings"
 
-	"github.com/daixiang0/gci/pkg/constants"
-	importPkg "github.com/daixiang0/gci/pkg/gci/imports"
-	sectionsPkg "github.com/daixiang0/gci/pkg/gci/sections"
-	"github.com/daixiang0/gci/pkg/gci/specificity"
+	"github.com/speedyhoon/gci/pkg/constants"
+	importPkg "github.com/speedyhoon/gci/pkg/gci/imports"
+	sectionsPkg "github.com/speedyhoon/gci/pkg/gci/sections"
+	"github.com/speedyhoon/gci/pkg/gci/specificity"
 )
 
 // Formats the import section of a Go file

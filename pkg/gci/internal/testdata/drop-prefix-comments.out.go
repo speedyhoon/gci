@@ -10,7 +10,7 @@ import (
 	// --------------------------
 
 	// Github
-	"github.com/daixiang0/gci"
+	"github.com/speedyhoon/gci"
 	"github.com/local/dlib/dexec"
 	// Github
 )

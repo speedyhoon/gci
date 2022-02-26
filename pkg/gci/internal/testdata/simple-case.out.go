@@ -4,5 +4,5 @@ import (
 
 	"golang.org/x/tools"
 
-	"github.com/daixiang0/gci"
+	"github.com/speedyhoon/gci"
 )

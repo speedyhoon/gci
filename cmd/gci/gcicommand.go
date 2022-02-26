@@ -3,10 +3,10 @@ package gci
 import (
 	"fmt"
 
-	"github.com/daixiang0/gci/pkg/configuration"
-	"github.com/daixiang0/gci/pkg/constants"
-	"github.com/daixiang0/gci/pkg/gci"
-	sectionsPkg "github.com/daixiang0/gci/pkg/gci/sections"
+	"github.com/speedyhoon/gci/pkg/configuration"
+	"github.com/speedyhoon/gci/pkg/constants"
+	"github.com/speedyhoon/gci/pkg/gci"
+	sectionsPkg "github.com/speedyhoon/gci/pkg/gci/sections"
 
 	"github.com/spf13/cobra"
 )

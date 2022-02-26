@@ -7,7 +7,7 @@ The desired output format is highly configurable and allows for more custom form
 ## Download
 
 ```shell
-$ go get github.com/daixiang0/gci
+$ go get github.com/speedyhoon/gci
 ```
 
 ## Usage
@@ -85,7 +85,7 @@ Support for the old CLI style is still present if you do not specify the subcomm
 
 ## Examples
 
-Run `gci  write --Section Standard --Section Default --Section "Prefix(github.com/daixiang0/gci)" main.go` and you will handle following cases:
+Run `gci  write --Section Standard --Section Default --Section "Prefix(github.com/speedyhoon/gci)" main.go` and you will handle following cases:
 
 ### simple case
 
@@ -96,7 +96,7 @@ import (
 
   "fmt"
 
-  "github.com/daixiang0/gci"
+  "github.com/speedyhoon/gci"
 )
 ```
 
@@ -109,7 +109,7 @@ import (
 
   "golang.org/x/tools"
 
-  "github.com/daixiang0/gci"
+  "github.com/speedyhoon/gci"
 )
 ```
 
@@ -120,7 +120,7 @@ package main
 import (
   "fmt"
   go "github.com/golang"
-  "github.com/daixiang0/gci"
+  "github.com/speedyhoon/gci"
 )
 ```
 
@@ -133,7 +133,7 @@ import (
 
   go "github.com/golang"
 
-  "github.com/daixiang0/gci"
+  "github.com/speedyhoon/gci"
 )
 ```
 
