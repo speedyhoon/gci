@@ -1,4 +1,4 @@
-module github.com/daixiang0/gci
+module github.com/speedyhoon/gci
 
 go 1.17
 
