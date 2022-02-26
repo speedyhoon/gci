@@ -114,7 +114,7 @@ func LoadFormatGoFile(file io.FileObj, cfg GciConfiguration) (unmodifiedFile, fo
 		return nil, nil, err
 	}
 
-	formattedFile, err = formatGoFile(unmodifiedFile, cfg)
+	formattedFile, err = FormatGoFile(unmodifiedFile, cfg)
 	if err != nil {
 		// ignore missing import statements
 		if !errors.Is(err, MissingImportStatementError) {

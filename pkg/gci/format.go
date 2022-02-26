@@ -13,7 +13,7 @@ import (
 )
 
 // Formats the import section of a Go file
-func formatGoFile(input []byte, cfg GciConfiguration) ([]byte, error) {
+func FormatGoFile(input []byte, cfg GciConfiguration) ([]byte, error) {
 	startIndex := bytes.Index(input, []byte(constants.ImportStartFlag))
 	if startIndex < 0 {
 		return nil, MissingImportStatementError
